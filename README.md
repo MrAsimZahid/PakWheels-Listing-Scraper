@@ -4,9 +4,9 @@ This scraper is written to extract listings from pakwheels website to analyze da
 
 ## Usage
 
-`bash
+```bash
 python pakwheel_per_page.py
-`
+```
 
 ## Created Dataset
 
